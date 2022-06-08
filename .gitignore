@@ -1,0 +1,5 @@
+#忽略dsf.css这个文件
+dsf.css
+
+#忽略test目录下的所以文件
+test/
